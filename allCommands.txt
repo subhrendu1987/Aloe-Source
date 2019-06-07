@@ -1,0 +1,177 @@
+##########################################CONFIGURE A RPI{x} FOR THE FIRST TIME, AFTER CONFIGURING WLAN##########################################################
+touch /home/pi/rpi{x}
+echo "192.168.2.x" > /home/pi/ip.txt
+sshpass -p 'user1' ssh -o StrictHostKeyChecking=no user@192.168.1.21 "cat /home/user/GIT/flipperRPi3/website/proxy/bashrc.append" >> ~/.bashrc
+sudo sh -c 'sshpass -p 'user1' ssh -o StrictHostKeyChecking=no user@192.168.1.21 "cat /home/user/GIT/flipperRPi3/website/proxy/apt.conf" > /etc/apt/apt.conf'
+sudo sh -c 'sshpass -p 'user1' ssh -o StrictHostKeyChecking=no user@192.168.1.21 "cat /home/user/GIT/flipperRPi3/website/proxy/environment" > /etc/apt/environment'
+
+### TYPICAL COMMAND HISTORY IN SERVER IS AS FOLLOWS	
+bash ExecALL.sh "sudo date -s \"$(wget -qSO- --max-redirect=0 google.com 2>&1 | grep Date: | cut -d' ' -f5-8)Z\""
+bash ExecALL.sh "sudo cp /usr/share/zoneinfo/Asia/Kolkata /etc/localtime"
+ 
+bash ExecALL.sh "sudo apt-get update"
+bash ExecALL.sh "sudo apt-get --yes --force-yes install python-daemon python-termcolor python-pycurl"
+bash ExecALL.sh "sudo -E pip install curlify"
+
+bash ExecALL.sh "sudo apt-get --yes --force-yes install openvswitch-switch openvswitch-common lldpd fping sshpass jq"
+bash ExecALL.sh "sudo -E curl -sSL https://get.docker.com | sh"
+bash ExecALL.sh "sudo systemctl daemon-reload; sudo systemctl show --property Environment docker; sudo systemctl restart docker"
+sudo cp ../website/proxy/docker /etc/default/docker
+bash rsyncAnyfile.sh /etc/default/docker
+
+bash ExecALL.sh "mkdir DOCKER_RYU"
+###	COPY IMAGE IN PI and load docker image
+	cp -v  /media/pi/Seagate\ Backup\ Plus\ Drive/ryu-armv7.tar DOCKER_RYU/
+	sudo docker image load -i DOCKER_RYU/ryu-armv7.tar
+	sudo docker tag d53fe33f37fe ryu-armv7
+	sudo rm ~/DOCKER_RYU/ryu-armv7.tar
+
+bash ExecALL.sh "sudo docker image ls"
+bash rsyncAnyfile.sh /etc/default/docker
+bash PushCodesToPI.sh
+#######################################################################################################################################################################
+
+###############Run them everytime after reboot################
+bash ExecALL.sh "sudo bash /home/pi/flipperRPi3/stop-ovs.sh"
+bash ExecALL.sh "sudo bash /home/pi/flipperRPi3/start-ovs.sh"
+bash ExecALL.sh "sudo ovs-vsctl set bridge br stp_enable=true"
+##############################################################
+
+##############On adding/deleting/changing(not meant for tar khola) ethernet inetefaces################
+python CreateMacRepo.py
+bash rsyncAfile.sh LOG/MACREPO.json
+#######################################################################################################
+
+#######################All pair ethernet ping#######################
+bash pingall.sh
+##############Wifi Connectivity#####################################
+bash CheckPiConnectivity.sh
+####################################################################
+
+######################################################################################################################################
+################################################ Our Main Algorithm ##################################################################
+######################################################################################################################################
+bash ExecALL.sh "cd /home/pi/flipperRPi3/; nohup sh -c \"echo ' ' && date && sudo python StateUpdate.py\" >> LOG/StateUpdate.nohup &"
+bash ExecALL.sh "ps -ef|grep StateUpdate"
+bash ViewLiveLogs.sh "/home/pi/flipperRPi3/LOG/StateUpdate.nohup"
+nohup sh -c "echo ' ' && date && sudo python StateUpdate.py" >> LOG/StateUpdate.nohup &
+
+bash ExecALL.sh "cd /home/pi/flipperRPi3/; nohup sh -c \"echo ' ' && date && sudo python testLabel.py\" >> LOG/testLabel.nohup &"
+bash ExecALL.sh "ps -ef|grep testLabel"
+bash ViewLiveLogs.sh "/home/pi/flipperRPi3/LOG/testLabel.nohup"
+bash ExecALL.sh "sudo ovs-vsctl show"
+
+bash ExecALL.sh "cd /home/pi/flipperRPi3/;  nohup sh -c \"echo ' ' && date && sudo python controller_scheduler.py\" >> LOG/controller_scheduler.nohup &"
+bash ExecALL.sh "ps -ef|grep controller_scheduler"
+bash ViewLiveLogs.sh "/home/pi/flipperRPi3/LOG/controller_scheduler.nohup"
+bash ExecALL.sh "sudo docker ps -a"
+########################################################################################################################################
+
+#################Log and Debug################################################################################################
+python CollectSnapShot.py
+sshpass -p "raspberry" scp -o StrictHostKeyChecking=no pi@192.168.2.2:/home/pi/flipperRPi3/LOG/nodeInfo.json /tmp/tmp.json
+sudo apt-get remove openvswitch-switch openvswitch-common
+fping -c10 -g 192.168.2.1/28
+bash ExecParallel.sh "sudo grep OFPT_PACKET /tmp/ofp.txt |wc -l ;sudo timeout 100 ovs-ofctl snoop br &> /tmp/ofp.txt; sudo grep OFPT_PACKET /tmp/ofp.txt |wc -l" "LOG/ofp.txt"
+seq 10 | xargs -I -- bash ExecParallel.sh "sudo timeout 100 ovs-ofctl snoop br &> /tmp/ofp.txt; sudo grep OFPT_PACKET /tmp/ofp.txt |wc -l"
+##############################################################################################################################
+
+##################Insert Delay in the Network#######################
+bash ExecALL.sh "sudo tc qdisc add dev br root netem delay 100ms"
+bash ExecALL.sh "sudo tc qdisc del dev br root netem"
+####################################################################
+
+####################################For Data Collection###############################################
+bash ExecALL.sh "sudo nohup bash /home/pi/checkSystemParams.sh >> /home/pi/checkSystemParams.nohup &"
+bash ViewLiveLogs.sh "/home/pi/checkSystemParams.nohup"
+python KillAll.py "checkSystemParams"
+bash ExecALL.sh -a "LOG/dump_flow.txt" "date; sudo ovs-ofctl dump-flows br"
+bash ExecALL.sh "cd /home/pi/flipperRPi3/; nohup iperf -s >> iperfServer.nohup &"
+bash PullLOGs.sh
+bash ExecTo.sh "date; sudo ifconfig eth0 down" "rpi1" "LOG/linkHistory.log"
+python Util/FlowView.py
+######################################################################################################
+
+###################################Anytime when there is a mess#######################################
+python KillAll.py "<give a part of the process name>"
+bash ExecALL.sh "sudo bash /home/pi/flipperRPi3/CleanAllDockers.sh"
+######################################################################################################
+
+##################################Interface File Details (/etc/network/interfaces)##############################################
+# interfaces(5) file used by ifup(8) and ifdown(8)
+
+# Please note that this file is written to be used with dhcpcd
+# For static IP, consult /etc/dhcpcd.conf and 'man dhcpcd.conf'
+
+# Include files from /etc/network/interfaces.d:
+source-directory /etc/network/interfaces.d
+
+auto lo
+iface lo inet loopback
+
+auto eth0
+iface eth0 inet static
+        hwaddress ether 00:00:00:00:<rpi_id>:01
+#    address 192.168.2.72
+#    netmask 255.255.255.0
+
+auto eth1
+iface eth1 inet static
+        hwaddress ether 00:00:00:00:<rpi_id>:02
+
+auto eth2
+iface eth2 inet static
+        hwaddress ether 00:00:00:00:<rpi_id>:03
+
+
+
+allow-hotplug wlan0
+iface wlan0 inet manual
+    wpa-conf /etc/wpa_supplicant/wpa_supplicant.conf
+
+allow-hotplug wlan1
+iface wlan1 inet manual
+    wpa-conf /etc/wpa_supplicant/wpa_supplicant.conf
+####################################################################################################################################
+
+##############################################################################################################################################################
+Note:
+1) bash rsyncAnyfile.sh "<filename_1>..."                    -----> Copy the file to the exact analogous location in Pi. Use for /home/pi
+2) bash rsyncAfile.sh "<filename_1>..."                      -----> Copy the file to /home/pi/flipperRPi3
+3) /usr/share/openvswitch/scripts/ovs-ctl restart/start/stop -----> Restart/Start/Stop ovs-service
+4) In case the Pi is out of network then comment everything in /etc/network/interfaces except "source-directory", "wlan0" and "wlan1" related lines. Then,
+	a) sudo service networking restart
+	b) sudo reboot
+	c) After reboot:
+		i)  Uncomment
+		ii) ifconfig eth0 up (repeat for for all interfaces)
+5) To open multiple terminal for every connected RPi(s):
+	 bash InitTerm.sh
+6) bash ViewLiveLogs.sh "/home/pi/flipperRPi3/LOG/testLabel.nohup" ----> Install multitail for this. 
+##########################################################################################
+Install glusterfs-server
+
+Add peer
+sudo gluster peer probe 192.168.2.3
+
+Configure Volumn
+sudo dd if=/dev/zero of=file.img count=102400
+sudo losetup /dev/loop1 file.img
+sudo apt-get install xfsprogs
+sudo mkfs.xfs -i size=512 /dev/loop1
+sudo mkdir -p /data/brick1
+sudo mount /dev/loop1 /data/brick1
+sudo mkdir /data/brick1/gv0
+
+
+sudo gluster volume create gv0 replica 2 192.168.2.2:/data/brick1/gv0 192.168.2.4:/data/brick1/gv0 force
+
+
+sudo gluster volume start gv0
+sudo gluster volume profile gv0 info
+
+echo localhost:/gv0 /srv/www glusterfs defaults,_netdev 0 0 >> /etc/fstab
+##########################################################################################
+python -m SimpleHTTPServer 2222
+dd if=/dev/zero of=file.txt count=30720 bs=1024
+curl -so /dev/null -w '%{time_total}\n' http://192.168.2.1:2222/file.txt

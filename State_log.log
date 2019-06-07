@@ -1,0 +1,340 @@
+2018-01-30 02:38:22.350244	 {'rpi4': {u'R': 1, u'Label': u'Switch'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-30 02:38:28.815502	 {'rpi4': {u'R': 1, u'Label': u'Switch'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 21:51:32.065694	 {'rpi4': {u'R': 1, u'Label': u'Switch'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 21:51:38.739371	 {'rpi4': {u'R': 1, u'Label': u'Switch'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 21:51:45.384444	 {'rpi4': {u'R': 1, u'Label': u'Switch'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 21:51:52.105682	 {'rpi4': {u'R': 1, u'Label': u'Switch'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 21:51:58.658537	 {'rpi4': {u'R': 0.0, u'Label': u'Wait'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 21:52:05.278713	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 21:52:11.813332	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 21:52:18.353894	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 21:52:24.852050	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 21:52:31.420453	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 21:52:38.343641	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 21:52:45.033910	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 21:52:51.632057	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 21:52:58.231361	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 21:53:04.931106	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 21:53:11.674411	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 21:53:18.228488	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 21:53:25.001078	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 21:53:31.984481	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 21:53:38.743767	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 21:53:45.533665	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 21:53:52.219563	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 21:53:58.864123	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 21:54:05.478576	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 21:54:12.132528	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 21:54:18.681504	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 21:54:25.143530	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 21:54:31.868905	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 21:54:38.482616	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 21:54:44.978858	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 21:54:51.589042	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 21:54:58.247641	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 21:55:04.808038	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 21:55:11.375901	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 21:55:17.945141	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 21:55:24.499710	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 21:55:31.194625	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 21:55:37.858817	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 21:55:44.440626	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 21:55:51.177863	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 21:55:57.853685	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 21:56:04.398065	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 21:56:11.118249	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 21:56:17.765490	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 21:56:24.258794	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 21:56:30.963052	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 21:56:38.188800	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 21:56:44.732302	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 21:56:51.419239	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 21:56:58.015193	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 21:57:04.530433	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 21:57:11.356603	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 21:57:17.833753	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 21:57:24.485951	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 21:57:31.189711	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 21:57:37.878544	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 21:57:44.558835	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 21:57:51.054926	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 21:57:57.806701	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 21:58:04.367538	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 21:58:10.906923	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 21:58:17.476252	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 21:58:24.038383	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 21:58:30.691669	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 21:58:38.121935	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 21:58:44.621202	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 21:58:51.107171	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 21:58:57.657052	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 21:59:04.329207	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 21:59:10.865994	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 21:59:17.476777	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 21:59:23.960794	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 21:59:30.558930	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 21:59:38.563616	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 21:59:45.057059	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 21:59:51.564248	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 21:59:58.277921	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:00:04.739872	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:00:11.276211	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:00:17.756502	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:00:24.263173	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:00:31.050886	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:00:38.170320	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:00:44.692967	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:00:51.175255	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:00:57.728066	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:01:04.229297	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:01:10.749418	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:01:17.318856	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:01:23.781731	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:01:30.289471	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:01:37.563946	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:01:44.044870	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:01:50.534788	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:01:57.074193	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:02:03.573209	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:02:10.171399	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:02:16.663509	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:02:23.260104	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:02:29.829336	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:02:36.760550	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:02:43.335574	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:02:49.840209	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:02:56.387312	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:03:02.887992	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:03:09.344882	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:03:15.853722	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:03:22.428928	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:03:28.923964	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:03:35.982504	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:03:42.445459	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:03:49.031545	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:03:55.539984	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:04:02.030993	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:04:08.542170	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:04:15.235545	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:04:21.799103	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:04:28.334106	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:04:34.821673	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:04:41.326277	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:04:47.795920	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:04:54.328940	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:05:00.875391	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:05:07.427557	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:05:14.185569	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:05:20.684844	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:05:27.462105	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:05:34.048005	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:05:40.563173	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:05:47.206721	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:05:53.746168	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:06:00.313371	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:06:06.776558	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:06:13.283983	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:06:19.906823	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:06:26.403848	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:06:32.927553	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:06:39.504149	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:06:46.075955	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:06:52.625097	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:06:59.236429	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:07:05.815893	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:07:12.468274	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:07:19.065390	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:07:25.875552	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:07:32.458390	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:07:39.257771	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:07:45.791577	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:07:52.365443	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:07:58.841899	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:08:05.369009	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:08:12.216382	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:08:18.822321	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:08:25.471225	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:08:31.974415	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:08:38.477935	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:08:45.013278	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:08:51.521238	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:08:58.102216	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:09:04.755533	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:09:11.257511	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:09:17.784232	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:09:24.480350	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:09:31.194002	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:09:37.879556	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:09:44.420698	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:09:50.937854	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:09:57.488734	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:10:04.108759	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:10:10.605145	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:10:17.137544	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:10:23.628598	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:10:30.200785	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:10:37.107954	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:10:43.638888	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:10:50.192027	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:10:56.787340	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:11:03.358819	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-01-31 22:11:10.038108	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:31:18.491177	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}}
+2018-02-01 01:31:18.916045	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:31:19.424087	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:31:19.797999	 {'rpi4': {u'R': 0.0, u'Label': u'Switch'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:31:25.195526	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}}
+2018-02-01 01:31:25.593174	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:31:26.019567	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:31:31.794210	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}}
+2018-02-01 01:31:32.165524	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:31:32.528117	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:31:38.321460	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}}
+2018-02-01 01:31:38.707990	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:31:39.070398	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:31:44.861574	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}}
+2018-02-01 01:31:45.418731	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:31:45.768546	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:31:51.535416	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}}
+2018-02-01 01:31:51.940400	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:31:52.321876	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:31:58.115934	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}}
+2018-02-01 01:31:58.505295	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:31:58.881640	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:32:04.660707	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}}
+2018-02-01 01:32:05.079453	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:32:05.427321	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:32:11.214325	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}}
+2018-02-01 01:32:11.662382	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:32:12.014539	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:32:17.776000	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}}
+2018-02-01 01:32:18.188521	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:32:18.557696	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:32:24.312756	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}}
+2018-02-01 01:32:24.712077	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:32:25.073820	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:32:30.828064	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}}
+2018-02-01 01:32:31.281820	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:32:31.667795	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:32:37.455381	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}}
+2018-02-01 01:32:38.029475	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:32:38.398987	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:32:44.212209	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}}
+2018-02-01 01:32:44.664754	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:32:45.046976	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:32:50.825400	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}}
+2018-02-01 01:32:51.226875	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:32:51.583504	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:32:57.353057	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}}
+2018-02-01 01:32:57.741746	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:32:58.127118	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:33:03.884809	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}}
+2018-02-01 01:33:04.272076	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:33:04.609465	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:33:10.418839	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}}
+2018-02-01 01:33:10.807488	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:33:11.156338	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:33:16.934943	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}}
+2018-02-01 01:33:17.326880	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:33:17.764162	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:33:23.519537	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}}
+2018-02-01 01:33:23.904985	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:33:24.285997	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:33:30.044136	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}}
+2018-02-01 01:33:30.430706	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:33:30.788800	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:33:37.040891	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}}
+2018-02-01 01:33:37.431709	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:33:37.761556	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:33:43.513715	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}}
+2018-02-01 01:33:43.920917	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:33:44.287810	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:33:44.656276	 {'rpi4': {u'R': 0.0, u'Label': u'Wait'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:33:50.065885	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}}
+2018-02-01 01:33:50.476788	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:33:50.881150	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:33:51.250965	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:33:56.711602	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}}
+2018-02-01 01:33:57.324980	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:33:57.697389	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:34:03.484072	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}}
+2018-02-01 01:34:03.894180	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:34:04.255346	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:34:10.020781	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}}
+2018-02-01 01:34:10.620379	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:34:11.042827	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'Switch'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:34:11.377446	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'Switch'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:34:16.787216	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}}
+2018-02-01 01:34:17.164262	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:34:17.532258	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'Switch'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:34:23.308392	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}}
+2018-02-01 01:34:23.888023	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:34:24.271597	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'Switch'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:34:30.103290	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}}
+2018-02-01 01:34:30.734589	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:34:31.101648	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'Switch'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:34:37.038892	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}}
+2018-02-01 01:34:37.591112	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:34:37.972758	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'Switch'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:34:43.704657	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}}
+2018-02-01 01:34:44.285526	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:34:44.642775	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'Switch'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:34:50.426158	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}}
+2018-02-01 01:34:50.834173	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:34:51.265965	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'Switch'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:34:57.068105	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}}
+2018-02-01 01:34:57.537500	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:34:57.890994	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'Switch'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:35:03.673512	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}}
+2018-02-01 01:35:04.073971	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:35:04.492190	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'Switch'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:35:10.276850	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}}
+2018-02-01 01:35:10.915924	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:35:11.278157	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'Switch'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:35:17.035794	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}}
+2018-02-01 01:35:17.428967	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:35:17.811886	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'Switch'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:35:23.605566	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}}
+2018-02-01 01:35:23.972431	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:35:24.394899	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'Switch'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:35:30.211939	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}}
+2018-02-01 01:35:30.794860	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:35:31.147314	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'Switch'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:35:37.173595	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}}
+2018-02-01 01:35:37.563887	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:35:37.948280	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'Switch'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:35:43.689839	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}}
+2018-02-01 01:35:44.073724	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:35:44.437439	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'Switch'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:35:50.180441	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}}
+2018-02-01 01:35:50.581479	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:35:50.944596	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'Switch'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:35:56.700087	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}}
+2018-02-01 01:35:57.133725	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:35:57.480963	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'Switch'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:36:03.211723	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}}
+2018-02-01 01:36:03.592703	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:36:03.988540	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'Switch'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:36:09.776200	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}}
+2018-02-01 01:36:10.320158	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:36:10.763842	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'Switch'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:36:16.644024	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}}
+2018-02-01 01:36:17.214195	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:36:17.552458	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'Switch'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:36:23.275715	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}}
+2018-02-01 01:36:23.839949	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:36:24.362439	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'Switch'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:36:30.142507	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}}
+2018-02-01 01:36:30.686858	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:36:31.047375	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'Switch'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:36:37.026297	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}}
+2018-02-01 01:36:37.409989	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:36:37.801520	 {'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'Switch'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:36:41.053358	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'Switch'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:37:28.156624	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'Switch'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 01:44:38.375810	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.9440052891764239, u'Label': u'Switch'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 02:20:44.940954	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.35395892197113854, u'Label': u'Wait'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 02:20:51.481330	 {'rpi4': {u'R': 0.0, u'Label': u'NIB'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.35395892197113854, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-01 02:21:51.899800	 {'rpi4': {u'R': 0.0, u'Label': u'Switch'}, 'rpi1': {u'R': 0.5318236932663912, u'Label': u'NIB'}, 'rpi3': {u'R': 0.35395892197113854, u'Label': u'NIB'}, 'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-02 05:57:15.914990	 {u'rpi5': {u'R': 0.0676983245685463, u'Label': u'NIB'}, u'rpi4': {u'R': 1, u'Label': u'Switch'}, u'rpi1': {u'R': 1, u'Label': u'Switch'}, u'rpi3': {u'R': 1, u'Label': u'Switch'}, u'rpi2': {u'R': 1, u'Label': u'Switch'}}
+2018-02-02 05:58:49.299849	 {u'rpi5': {u'R': 0.0676983245685463, u'Label': u'NIB'}, u'rpi4': {u'R': 1, u'Label': u'Switch'}, u'rpi1': {u'R': 1, u'Label': u'Switch'}, u'rpi3': {u'R': 1, u'Label': u'Switch'}, u'rpi2': {u'R': 1, u'Label': u'Switch'}}
